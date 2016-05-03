@@ -1,0 +1,2 @@
+# szamhalo
+Számítógépes hálózatok ELTE
